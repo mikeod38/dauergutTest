@@ -2,4 +2,7 @@
 
 export(box_annot)
 export(dunnett_contrasts)
+export(flag_outliers)
+export(format_dauer)
+importFrom(magrittr,"%<>%")
 importFrom(magrittr,"%>%")
